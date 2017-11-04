@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="33.632"
-   height="69.34"
-   viewBox="0 0 31.530464 65.006656"
+   width="89.78968"
+   height="185.09308"
+   viewBox="0 0 84.179064 173.52585"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="1-icon.svg">
+   sodipodi:docname="1-legs.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,30 +37,37 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="1000"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="3.4035191"
-     inkscape:cx="16.816"
-     inkscape:cy="34.669998"
-     inkscape:window-x="88"
-     inkscape:window-y="24"
+     inkscape:zoom="1.7017595"
+     inkscape:cx="19.613725"
+     inkscape:cy="63.890444"
+     inkscape:window-x="65"
+     inkscape:window-y="792"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <path
-     d="M3.517 12.015L19 0l12.53 2.863-10.012 43.262-9.746-2.227 7.7-34.532L8.03 16.38z"
-     fill="#00f"
-     fill-rule="evenodd"
+     d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
      id="path4"
-     style="fill:#008000" />
+     style="fill:#008000;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
-     d="M17.593 43.464l7.822 10.472-6.56 7.919 2.27 2.043M15.985 43.719l-4.542 10.473-10.345 2.043.757 3.32"
-     fill="none"
-     stroke="#00f"
-     stroke-width="2.196"
-     stroke-linecap="round"
-     stroke-linejoin="round"
+     d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
      id="path6"
-     style="fill:none;stroke:#008000" />
+     style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>
