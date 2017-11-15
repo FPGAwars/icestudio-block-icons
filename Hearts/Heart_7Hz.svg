@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200.13043"
+   height="156.5923"
+   viewBox="0 0 187.62306 146.80587"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Heart_7Hz.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1449"
+     inkscape:window-height="1028"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3153249"
+     inkscape:cx="-27.014448"
+     inkscape:cy="-19.016995"
+     inkscape:window-x="181"
+     inkscape:window-y="792"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 78.588719,143.49233 C 76.014528,139.0636 72.023946,134.72722 64.462017,128.14306 60.365646,124.57689 57.873736,122.59634 43.686303,111.6365 32.566741,103.04429 27.018715,98.277607 20.589116,91.78973 14.163436,85.301853 10.38639,80.134344 7.1461226,73.396933 5.0773666,69.09395 3.6550976,64.948153 2.7696076,60.64124 1.6470726,55.169182 1.4942666,53.316345 1.5001436,45.258567 c 0.0078,-10.572764 0.356547,-12.331289 3.827981,-19.385038 2.580068,-5.238241 4.539117,-7.996871 8.6198164,-12.140697 3.963155,-4.0220095 6.535387,-5.8493095 12.099085,-8.6000695 6.1808,-3.05728 10.651349,-3.85893 19.860838,-3.56224 7.156407,0.23185 9.775655,0.94312 15.449061,4.20867 8.929344,5.1380395 15.8585,13.3863955 17.776409,21.1612405 0.313448,1.271247 0.636691,2.312608 0.718971,2.312608 0.08228,0 0.805169,-1.487378 1.60642,-3.304848 2.726996,-6.179395 5.260046,-9.949915 9.283932,-13.828491 12.320463,-11.87936951 31.744423,-14.0269395 47.450123,-5.2500295 6.41392,3.5838595 11.63283,8.8024455 15.67631,15.6754305 3.18345,5.409184 4.81142,12.594576 5.08961,22.46393 0.4016,14.298086 -2.21373,24.206736 -9.17423,34.765746 -2.76226,4.190988 -4.80555,6.729551 -8.63745,10.72995 -6.18275,6.458405 -11.75821,11.205441 -24.92106,21.216261 -8.30636,6.31694 -13.22945,10.37825 -20.354513,16.79932 -5.710627,5.14393 -14.557691,14.09964 -15.409878,15.59684 -0.372219,0.65429 -0.709175,1.18872 -0.748356,1.18872 -0.03918,0 -0.544616,-0.8154 -1.124494,-1.81354 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000;stroke:#000000;stroke-width:2.8125118;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     sodipodi:linespacing="125%"
+     y="136.2767"
+     x="124.2072"
+     style="font-weight:400;font-size:53.91407013px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204"
+     transform="scale(0.99852717,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-weight:700;font-size:30.808321px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+       y="136.2767"
+       x="124.2072"
+       font-weight="700"
+       font-size="15.703"
+       id="tspan4206">7Hz</tspan>
+  </text>
+</svg>
