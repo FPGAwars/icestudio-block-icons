@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,10 +163,10 @@
      id="namedview4336"
      showgrid="false"
      inkscape:zoom="1.3007273"
-     inkscape:cx="148.10016"
+     inkscape:cx="17.019648"
      inkscape:cy="146.64149"
      inkscape:window-x="65"
-     inkscape:window-y="1104"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4332"
      showguides="true"
@@ -179,7 +179,10 @@
      style="fill:#808080;fill-rule:evenodd;stroke:#191919;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
      d="m -220.10934,501.25305 0,-1.36012 -27.99143,0 A 2.3992676,2.3316249 0 0 1 -250.5,497.56131 l 0,-65.67411 a 2.3992676,2.3316249 0 0 1 2.39923,-2.33165 l 27.99143,0 0,-1.36004 a 2.3992676,2.3316249 0 0 1 2.39923,-2.33168 l 156.352338,0 a 2.3992676,2.3316249 0 0 1 2.399267,2.33168 l 0,1.36004 27.991403,0 a 2.3992676,2.3316249 0 0 1 2.399295,2.33165 l 0,65.67411 a 2.3992676,2.3316249 0 0 1 -2.399295,2.33162 l -27.991403,0 0,1.36012 a 2.3992676,2.3316249 0 0 1 -2.399267,2.3316 l -156.352338,0 a 2.3992676,2.3316249 0 0 1 -2.39923,-2.3316"
      id="Fusion009002001_cs_w0000"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <ellipse
      id="circle4163"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.44271088;stroke-miterlimit:4;stroke-dasharray:none"
@@ -187,7 +190,10 @@
      cx="-237.30406"
      transform="scale(1,-1)"
      rx="8.5973768"
-     ry="8.3549891" />
+     ry="8.3549891"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <ellipse
      id="circle4165"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.44271088;stroke-miterlimit:4;stroke-dasharray:none"
@@ -195,7 +201,10 @@
      cx="-237.30406"
      transform="scale(1,-1)"
      rx="8.5973768"
-     ry="8.3549891" />
+     ry="8.3549891"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <ellipse
      id="circle4167"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.44271088;stroke-miterlimit:4;stroke-dasharray:none"
@@ -203,7 +212,10 @@
      cx="-41.763748"
      transform="scale(1,-1)"
      rx="8.5973768"
-     ry="8.3549891" />
+     ry="8.3549891"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <ellipse
      id="circle4169"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.44271088;stroke-miterlimit:4;stroke-dasharray:none"
@@ -211,14 +223,20 @@
      cx="-41.763748"
      transform="scale(1,-1)"
      rx="8.5973768"
-     ry="8.3549891" />
+     ry="8.3549891"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:72.85389709px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-206.01315"
      y="544.72803"
      id="text4155-3"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan4157-6"
        x="-206.01315"
@@ -228,12 +246,18 @@
      style="opacity:0.54000005;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m -220.21417,429.34142 0,70.26342"
      id="path4266"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.54000005;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m -59.15043,429.34142 0,70.26342"
      id="path4266-3"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      sodipodi:nodetypes="cssccc"
      id="circle4174-6-5"
@@ -241,5 +265,8 @@
      style="fill:#4d4d4d;stroke:#191919;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
      inkscape:transform-center-x="-12.835176"
-     inkscape:transform-center-y="-13.933725" />
+     inkscape:transform-center-y="-13.933725"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoTime-20ms.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>
