@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="-252 400.9 278.16016 175.19108"
+   viewBox="-252 400.9 278.16016 171.38856"
    width="278.16016"
-   height="175.19109"
+   height="171.38857"
    id="svg4332"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -278,15 +278,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="959"
+     inkscape:window-height="744"
      id="namedview4336"
      showgrid="false"
-     inkscape:zoom="1.3007273"
-     inkscape:cx="-3.7013816"
-     inkscape:cy="65.985546"
-     inkscape:window-x="65"
-     inkscape:window-y="792"
+     inkscape:zoom="0.91975309"
+     inkscape:cx="115.36906"
+     inkscape:cy="51.79375"
+     inkscape:window-x="186"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4332"
      showguides="true"
@@ -297,7 +297,7 @@
      fit-margin-bottom="0" />
   <path
      style="fill:#808080;fill-rule:evenodd;stroke:#191919;stroke-width:3.56129479;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m -218.78187,540.65983 0,-1.40696 -28.95561,0 a 2.4819102,2.4119375 0 0 1 -2.48187,-2.41192 l 0,-67.93626 a 2.4819102,2.4119375 0 0 1 2.48187,-2.41196 l 28.95561,0 0,-1.40689 a 2.4819102,2.4119375 0 0 1 2.48186,-2.41199 l 161.737881,0 a 2.4819102,2.4119375 0 0 1 2.481902,2.41199 l 0,1.40689 28.955571,0 a 2.4819102,2.4119375 0 0 1 2.481938,2.41196 l 0,67.93626 a 2.4819102,2.4119375 0 0 1 -2.481938,2.41192 l -28.955571,0 0,1.40696 a 2.4819102,2.4119375 0 0 1 -2.481902,2.41192 l -161.737881,0 a 2.4819102,2.4119375 0 0 1 -2.48186,-2.41192"
+     d="m -218.78187,540.57808 0,-1.40696 -28.95561,0 a 2.4819102,2.4119375 0 0 1 -2.48187,-2.41192 l 0,-67.93626 a 2.4819102,2.4119375 0 0 1 2.48187,-2.41196 l 28.95561,0 0,-1.40689 a 2.4819102,2.4119375 0 0 1 2.48186,-2.41199 l 161.737878,0 a 2.4819102,2.4119375 0 0 1 2.481902,2.41199 l 0,1.40689 28.955571,0 a 2.4819102,2.4119375 0 0 1 2.481938,2.41196 l 0,67.93626 a 2.4819102,2.4119375 0 0 1 -2.481938,2.41192 l -28.955571,0 0,1.40696 a 2.4819102,2.4119375 0 0 1 -2.481902,2.41192 l -161.737878,0 a 2.4819102,2.4119375 0 0 1 -2.48186,-2.41192"
      id="Fusion009002001_cs_w0000-1"
      inkscape:connector-curvature="0"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -306,7 +306,7 @@
   <ellipse
      id="circle4163-8"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.56129479;stroke-miterlimit:4;stroke-dasharray:none"
-     cy="-482.57242"
+     cy="-482.49066"
      cx="-236.56888"
      transform="scale(1,-1)"
      rx="8.8935127"
@@ -317,7 +317,7 @@
   <ellipse
      id="circle4165-7"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.56129479;stroke-miterlimit:4;stroke-dasharray:none"
-     cy="-523.17322"
+     cy="-523.09149"
      cx="-236.56888"
      transform="scale(1,-1)"
      rx="8.8935127"
@@ -328,8 +328,8 @@
   <ellipse
      id="circle4167-9"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.56129479;stroke-miterlimit:4;stroke-dasharray:none"
-     cy="-482.57242"
-     cx="-34.293186"
+     cy="-482.49066"
+     cx="-34.29319"
      transform="scale(1,-1)"
      rx="8.8935127"
      ry="8.6427765"
@@ -339,8 +339,8 @@
   <ellipse
      id="circle4169-2"
      style="fill:#ffffff;stroke:#191919;stroke-width:3.56129479;stroke-miterlimit:4;stroke-dasharray:none"
-     cy="-523.17322"
-     cx="-34.293186"
+     cy="-523.09149"
+     cx="-34.29319"
      transform="scale(1,-1)"
      rx="8.8935127"
      ry="8.6427765"
@@ -349,7 +349,7 @@
      inkscape:export-ydpi="90" />
   <g
      id="Fusion009002001_cs001"
-     transform="matrix(4.136517,0,0,-4.019896,-135.43108,502.87282)"
+     transform="matrix(4.136517,0,0,-4.019896,-135.43108,502.79107)"
      style="stroke-width:1.1842587;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
      inkscape:export-xdpi="90"
@@ -366,7 +366,7 @@
   <path
      sodipodi:nodetypes="cssccc"
      id="circle4174-6-5-0"
-     d="m -75.467215,483.96587 c -7.283204,-7.65996 -17.989774,-10.95309 -28.033585,-8.62201 -10.04385,2.33112 -17.87449,9.92654 -20.50316,19.8872 -2.62866,9.96052 0.35043,20.74903 7.8002,28.24744 l 81.489155,39.28735 z"
+     d="m -75.467218,483.88412 c -7.283204,-7.65996 -17.989774,-10.95309 -28.033582,-8.62201 -10.04385,2.33112 -17.87449,9.92654 -20.50316,19.8872 -2.62866,9.96052 0.35043,20.74903 7.8002,28.24744 l 81.489152,39.28735 z"
      style="fill:#4d4d4d;stroke:#191919;stroke-width:3.56129479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
      inkscape:transform-center-x="-3.8223927"
@@ -377,7 +377,7 @@
   <path
      sodipodi:nodetypes="cssccc"
      id="circle4174-6-5-3"
-     d="m -75.342605,519.73936 c -7.283205,7.65995 -17.98981,10.95312 -28.033625,8.62204 -10.04384,-2.33116 -17.87449,-9.92658 -20.50319,-19.8872 -2.62859,-9.96059 0.35043,-20.74903 7.80023,-28.24748 l 80.462402,-43.90756 z"
+     d="m -75.342608,519.65761 c -7.283205,7.65995 -17.98981,10.95312 -28.033622,8.62204 -10.04384,-2.33116 -17.87449,-9.92658 -20.50319,-19.8872 -2.62859,-9.96059 0.35043,-20.74903 7.80023,-28.24748 l 80.462399,-43.90756 z"
      style="fill:none;stroke:#191919;stroke-width:3.56129479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.56129469, 7.1225893;stroke-dashoffset:0"
      inkscape:connector-curvature="0"
      inkscape:transform-center-x="-4.4339674"
@@ -386,14 +386,14 @@
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
-     d="M -0.06227428,548.4347 A 66.684891,73.885681 0 0 1 -24.277656,495.45555 66.684891,73.885681 0 0 1 -5.4793221,439.84228"
+     d="M -0.06227047,548.35294 A 66.684891,73.885681 0 0 1 -24.277652,495.37379 66.684891,73.885681 0 0 1 -5.4793182,439.76053"
      sodipodi:open="true"
      sodipodi:end="3.913505"
      sodipodi:start="2.259251"
      sodipodi:ry="73.885681"
      sodipodi:rx="66.684891"
-     sodipodi:cy="491.37805"
-     sodipodi:cx="42.305611"
+     sodipodi:cy="491.2963"
+     sodipodi:cx="42.305614"
      sodipodi:type="arc"
      transform="scale(-1,1)"
      id="path4285"
@@ -404,8 +404,8 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:62.32266235px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-34.049957"
-     y="427.33148"
+     x="-30.205956"
+     y="571.7843"
      id="text4155-3-2"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -413,14 +413,14 @@
      inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan4157-6-3"
-       x="-34.049957"
-       y="427.33148"
+       x="-30.205956"
+       y="571.7843"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.61294937px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000">0</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:62.32266235px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-27.575926"
-     y="576.09106"
+     x="-27.575928"
+     y="426.86197"
      id="text4155-3-7"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -428,14 +428,14 @@
      inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan4157-6-5"
-       x="-27.575926"
-       y="576.09106"
+       x="-27.575928"
+       y="426.86197"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.61294937px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000">1</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:35.27933121px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-172.43784"
-     y="499.50098"
+     y="499.41922"
      id="text4155"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -443,14 +443,14 @@
      inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        x="-172.43784"
-       y="499.50098"
+       y="499.41922"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.15961647px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffcc00"
        id="tspan4395">EMAX</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:35.27933121px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-172.43784"
-     y="522.33319"
+     y="522.25146"
      id="text4155-7"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -458,14 +458,14 @@
      inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        x="-172.43784"
-       y="522.33319"
+       y="522.25146"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.15961647px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffcc00"
        id="tspan4395-5">ES08A</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:62.32266235px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-179.79504"
-     y="446.06033"
+     y="445.97858"
      id="text4155-3-7-9"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -474,13 +474,13 @@
        sodipodi:role="line"
        id="tspan4157-6-5-2"
        x="-179.79504"
-       y="446.06033"
+       y="445.97858"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.61294937px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff">90</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.12828827px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-130.51401"
-     y="426.30127"
+     y="426.21951"
      id="text4155-3-7-9-2"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Servos/png/ServoBit90-EMAX-ES08A.png"
@@ -489,6 +489,6 @@
        sodipodi:role="line"
        id="tspan4157-6-5-2-8"
        x="-130.51401"
-       y="426.30127"
+       y="426.21951"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.93045044px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff">0</tspan></text>
 </svg>
