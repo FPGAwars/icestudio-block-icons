@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="311.56577"
-   height="189.0583"
+   width="317.65121"
+   height="194.05795"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="0.62167455"
-     inkscape:cx="243.92133"
-     inkscape:cy="209.2012"
-     inkscape:window-x="186"
-     inkscape:window-y="24"
+     inkscape:zoom="0.87918058"
+     inkscape:cx="-279.3251"
+     inkscape:cy="165.29138"
+     inkscape:window-x="65"
+     inkscape:window-y="792"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
@@ -54,28 +54,28 @@
      showguides="true"
      inkscape:guide-bbox="true" />
   <path
-     d="M 66.203306,1.4998908 228.06405,94.526691 66.203306,187.55842 l 0,-186.0585292 z"
+     d="M 69.246033,3.9997089 231.10678,97.026509 69.246033,190.05824 l 0,-186.0585311 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <ellipse
-     cx="250.30923"
-     cy="94.236023"
+     cx="253.35196"
+     cy="96.73584"
      id="circle6"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      rx="21.392729"
      ry="21.893293"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
-     d="m 1.0142425,94.98978 65.2616365,0 m 205.796021,0 38.47962,0"
+     d="m 4.05697,97.489598 65.261636,0 m 205.796024,0 38.47962,0"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
      sodipodi:nodetypes="cccc"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
      inkscape:export-xdpi="90"
@@ -83,17 +83,17 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:49.67506409px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="78.05526"
-     y="109.24563"
+     x="81.112289"
+     y="111.73375"
      id="text4142"
      sodipodi:linespacing="125%"
-     transform="scale(0.99532127,1.0047007)"
+     transform="scale(0.99532128,1.0047007)"
      inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan4144"
-       x="78.05526"
-       y="109.24563"
+       x="81.112289"
+       y="111.73375"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Not</tspan></text>
 </svg>

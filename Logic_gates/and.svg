@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="331.0188"
-   height="189.04526"
+   width="336.09"
+   height="194.04526"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -41,8 +41,8 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="0.87918058"
-     inkscape:cx="-25.364516"
-     inkscape:cy="-8.7511229"
+     inkscape:cx="132.4293"
+     inkscape:cy="255.35611"
      inkscape:window-x="65"
      inkscape:window-y="792"
      inkscape:window-maximized="1"
@@ -54,26 +54,26 @@
      showguides="true"
      inkscape:guide-bbox="true" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
      id="path6"
-     d="m 172.12038,187.54526 -96.352417,0 0,-186.04526 96.352417,0 c 0,0 87.46328,8.62453 87.46328,91.94023 0,83.31075 -87.46328,94.10503 -87.46328,94.10503 z" />
+     d="m 174.65599,190.04526 -96.352421,0 0,-186.04526 96.352421,0 c 0,0 87.46328,8.62453 87.46328,91.94023 0,83.31075 -87.46328,94.10503 -87.46328,94.10503 z" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
      id="path8-3"
-     d="m 1.5213637,43.16778 74.0177353,0 m -74.0177353,99.1447 74.0177353,0 m 184.632771,-50.03409 69.32556,0"
+     d="m 4.05697,45.66778 74.017735,0 m -74.017735,99.1447 74.017735,0 m 184.632775,-50.03409 69.32556,0"
      sodipodi:nodetypes="cccccc" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:58.05377579px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="90.358429"
-     y="112.08738"
+     x="92.894035"
+     y="114.58738"
      id="text4142-5"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4144-6"
-       x="90.358429"
-       y="112.08738"
+       x="92.894035"
+       y="114.58738"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">AND</tspan></text>
 </svg>
