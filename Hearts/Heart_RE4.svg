@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170.99667"
+   height="156.39221"
+   viewBox="0 0 160.31005 146.61829"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Heart_RE4.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1449"
+     inkscape:window-height="1028"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3153249"
+     inkscape:cx="-156.74021"
+     inkscape:cy="-19.117002"
+     inkscape:window-x="181"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 78.494972,143.39851 C 75.920781,138.96978 71.930199,134.6334 64.36827,128.04924 60.271899,124.48307 57.779989,122.50252 43.592556,111.54268 32.472994,102.95047 26.924968,98.183785 20.495369,91.695908 14.069689,85.208031 10.292643,80.040522 7.0523759,73.303111 4.9836199,69.000128 3.5613509,64.854331 2.6758609,60.547418 1.5533259,55.07536 1.4005199,53.222523 1.4063969,45.164745 c 0.0078,-10.572764 0.356547,-12.331289 3.827981,-19.385038 2.580068,-5.238241 4.539117,-7.996871 8.6198161,-12.140697 3.963155,-4.0220094 6.535387,-5.8493094 12.099085,-8.6000694 6.1808,-3.05728 10.651349,-3.85893 19.860838,-3.56224 7.156407,0.23185 9.775655,0.94312 15.449061,4.20867 8.929344,5.1380394 15.8585,13.3863954 17.776409,21.1612404 0.313448,1.271247 0.636691,2.312608 0.718971,2.312608 0.08228,0 0.805169,-1.487378 1.60642,-3.304848 2.726996,-6.179395 5.260046,-9.949915 9.283932,-13.828491 12.32046,-11.87936943 31.74442,-14.0269394 47.45012,-5.2500294 6.41392,3.5838594 11.63283,8.8024454 15.67631,15.6754304 3.18345,5.409184 4.81142,12.594576 5.08961,22.46393 0.4016,14.298086 -2.21373,24.206736 -9.17423,34.765746 -2.76226,4.190988 -4.80555,6.729551 -8.63745,10.72995 -6.18275,6.458405 -11.75821,11.205443 -24.92106,21.216263 -8.30636,6.31694 -13.22945,10.37825 -20.35451,16.79932 -5.710627,5.14393 -14.557691,14.09964 -15.409878,15.59684 -0.372219,0.65429 -0.709175,1.18872 -0.748356,1.18872 -0.03918,0 -0.544616,-0.8154 -1.124494,-1.81354 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000;stroke:#000000;stroke-width:2.81251168;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_DO4.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     sodipodi:linespacing="125%"
+     y="68.57106"
+     x="54.874138"
+     style="font-weight:400;font-size:53.91407013px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204"
+     transform="scale(0.99852717,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_DO4.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-weight:700;font-size:30.808321px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+       y="68.57106"
+       x="54.874138"
+       font-weight="700"
+       font-size="15.703"
+       id="tspan4206">RE</tspan>
+  </text>
+  <text
+     sodipodi:linespacing="125%"
+     y="100.06254"
+     x="68.321274"
+     style="font-weight:400;font-size:53.91407013px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204-3"
+     transform="scale(0.99852718,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_DO4.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-weight:700;font-size:30.80832291px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+       y="100.06254"
+       x="68.321274"
+       font-weight="700"
+       font-size="15.703"
+       id="tspan4206-6">4</tspan>
+  </text>
+</svg>
