@@ -255,12 +255,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.3153249"
-     inkscape:cx="-40.225768"
-     inkscape:cy="132.93758"
+     inkscape:cx="-169.09127"
+     inkscape:cy="47.237577"
      inkscape:window-x="65"
-     inkscape:window-y="1104"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer3"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -281,7 +281,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="component"
-     transform="translate(1.2606609,1.0582973)">
+     transform="translate(1.2606608,1.0582976)">
     <path
        id="path4239-6"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2.81251168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -333,9 +333,4 @@
          x="16.068014"
          y="156.65536">0</tspan></text>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="back"
-     transform="translate(1.2606609,1.0582973)" />
 </svg>
