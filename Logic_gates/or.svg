@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="196.08681"
-   width="383.27008"
+   height="192.71814"
+   width="383.69696"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -32,9 +32,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.4732055"
-     inkscape:cx="216.60189"
-     inkscape:cy="96.977425"
+     inkscape:zoom="1.0417136"
+     inkscape:cx="231.87711"
+     inkscape:cy="139.775"
      inkscape:window-x="1985"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,23 +52,24 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="m 175.34677,190.40214 -91.032747,0 c 0,0 30.344497,-42.53778 31.085357,-94.030284 C 116.14214,44.883126 83.578469,6.0780661 83.578469,6.0780661 l 92.317411,-0.39373 C 222.34069,7.6321661 279.79417,59.124676 298.9428,99.362196 266.34123,166.86558 206.78455,189.15196 175.34639,190.40252 Z"
+     d="m 175.56021,188.7178 -91.032747,0 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:11.36867237;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     d="m 3.8435299,48.975846 99.6047201,0 m -98.7785971,97.876694 94.2614511,0 m 199.425456,-46.27807 81.07,0"
+     d="m 4.05697,47.29151 99.60472,0 m -98.778597,97.87669 100.981147,0 M 298.57,98.890134 l 81.07,0"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:7.57911444;stroke-linecap:round" />
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="cccccc" />
   <text
      style="font-style:normal;font-weight:normal;font-size:66.31724548px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
      font-weight="normal"
      xml:space="preserve"
      font-size="17.5px"
      font-style="normal"
-     y="122.96412"
-     x="131.35866"
+     y="121.27979"
+     x="131.5721"
      line-height="125%"
      id="text10"
      sodipodi:linespacing="125%"><tspan
@@ -76,8 +77,8 @@
        font-style="normal"
        font-stretch="normal"
        font-variant="normal"
-       y="122.96412"
-       x="131.35866"
+       y="121.27979"
+       x="131.5721"
        id="tspan12"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif">OR</tspan></text>
 </svg>
