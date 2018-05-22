@@ -29,12 +29,12 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="0.73660273"
-     inkscape:cx="240.84065"
+     inkscape:cx="9.3725967"
      inkscape:cy="9.2798471"
      inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-y="1104"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g4154"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,13 +68,13 @@
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:nodetypes="cccccc" />
       <text
-         style="font-style:normal;font-weight:normal;font-size:58.24010468px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
+         style="font-style:normal;font-weight:normal;font-size:42.08581924px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
          font-weight="normal"
          xml:space="preserve"
          font-size="17.5px"
          font-style="normal"
-         y="115.28504"
-         x="129.01074"
+         y="108.72587"
+         x="129.31837"
          line-height="125%"
          id="text10-3"
          sodipodi:linespacing="125%"><tspan
@@ -82,10 +82,10 @@
            font-style="normal"
            font-stretch="normal"
            font-variant="normal"
-           y="115.28504"
-           x="129.01074"
+           y="108.72587"
+           x="129.31837"
            id="tspan12-5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif">XOR</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif">XNOR</tspan></text>
     </g>
     <path
        sodipodi:nodetypes="ccc"
