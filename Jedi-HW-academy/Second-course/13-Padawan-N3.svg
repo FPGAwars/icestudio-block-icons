@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="211.62681"
-     inkscape:cy="196.65599"
+     inkscape:cx="282.84256"
+     inkscape:cy="177.46309"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -58,42 +58,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="back"
-     transform="translate(37.419859,47.318903)"
-     style="display:inline">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.78424561;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4135"
-       width="259.022"
-       height="278.91138"
-       x="-36.527737"
-       y="-42.164982"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/13-Padawan-N3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <g
-       id="layer2-3"
-       inkscape:label="back"
-       transform="matrix(0.82503782,0,0,1.0399263,-5.9027595,-2.4326238)"
-       style="display:inline;fill:#ffffff"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/13-Padawan-N3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.87135482;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4135-5"
-         width="577.3548"
-         height="278.03598"
-         x="-36.090034"
-         y="-41.72728"
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/09-Aspirante-padawan-N3.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
