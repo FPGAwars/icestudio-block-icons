@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
-   sodipodi:docname="15-Aspirante-a-jedi-N2.svg"
+   sodipodi:docname="16-Aspirante-a-jedi-N2.svg"
    inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/14-Aspirante-jedi.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="281.86938"
+     inkscape:cx="160.44081"
      inkscape:cy="128.5087"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -64,16 +64,6 @@
      inkscape:label="back"
      transform="translate(37.419861,28.007318)"
      style="display:inline">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4135"
-       width="589.80206"
-       height="248.59602"
-       x="-36.419861"
-       y="-27.007318"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/16-Aspirante-jedi-N2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4137"
@@ -107,7 +97,7 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/16-Aspirante-jedi-N2.png"
        inkscape:connector-curvature="0"
        id="rect4140-6"
-       d="m 39.280631,30.266244 0,1.13477 -0.0664,0 0,182.837876 39.39649,0 0,-77.43359 103.818359,0 0,77.43359 39.39648,0 c -0.0403,-62.01381 0.29102,-122.429183 0.29102,-183.972646 l -182.835939,0 z m 39.33008,39.39452 103.818359,0 0,27.74805 -103.818359,0 z"
+       d="m 39.280631,30.266244 v 1.13477 h -0.0664 V 214.23889 h 39.39649 V 136.8053 H 182.42908 v 77.43359 h 39.39648 c -0.0403,-62.01381 0.29102,-122.429183 0.29102,-183.972646 H 39.280641 Z m 39.33008,39.39452 H 182.42907 v 27.74805 H 78.610711 Z"
        style="display:inline;opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="ccccccccccccccccc" />
   </g>
