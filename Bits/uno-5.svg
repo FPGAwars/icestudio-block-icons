@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180"
+   height="185.09308"
+   viewBox="0 0 168.75248 173.52585"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="uno-5.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="3.403519"
+     inkscape:cx="2.8321823"
+     inkscape:cy="76.244589"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+     id="path6"
+     style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     aria-label="5"
+     transform="matrix(0.93751378,0,0,0.93751378,-24.309499,44.064744)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:25px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none"
+     id="flowRoot5142">
+    <path
+       id="path5868"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1"
+       d="m 138.86523,106.41774 13.125,-1.35938 q 0.5625,4.45313 3.32813,7.07813 2.76562,2.57812 6.375,2.57812 4.125,0 6.98437,-3.32812 2.85938,-3.375 2.85938,-10.125 0,-6.328128 -2.85938,-9.468753 -2.8125,-3.1875 -7.35937,-3.1875 -5.67188,0 -10.17188,5.015625 l -10.6875,-1.546875 6.75,-35.765625 h 34.82813 v 12.328125 h -24.84375 l -2.0625,11.671875 q 4.40625,-2.203125 9,-2.203125 8.76562,0 14.85937,6.375 6.09375,6.375 6.09375,16.546873 0,8.48438 -4.92187,15.14063 -6.70313,9.09375 -18.60938,9.09375 -9.51562,0 -15.51562,-5.10938 -6,-5.10937 -7.17188,-13.73437 z M 34.145081,-12.420505 79.231849,-47.001996 115.71943,-38.761729 86.564308,85.75465 58.183785,79.34492 80.606321,-20.044839 47.287016,0.14280643 Z" />
+  </g>
+</svg>
