@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="switch7.svg"
+   viewBox="0 0 96 120"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.0 r15299"
+   width="102.4"
+   height="128">
+  <defs
+     id="defs4493" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1017"
+     inkscape:zoom="4.3706514"
+     objecttolerance="10"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="49.497475"
+     inkscape:cy="56.568542"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-244.86,-266.15)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       transform="translate(-244.86,-266.15)"
+       style="display:inline"
+       id="g6278">
+      <path
+         id="path5478"
+         sodipodi:rx="78.571426"
+         sodipodi:ry="78.571426"
+         style="fill:none;stroke:#000000;stroke-width:14.16600037;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:type="arc"
+         d="m 351.05008,274.32516 a 78.571426,78.571426 0 0 1 57.56345,86.1498 78.571426,78.571426 0 0 1 -77.89924,68.3158 78.571426,78.571426 0 0 1 -77.89923,-68.31581 78.571426,78.571426 0 0 1 57.56346,-86.14979"
+         sodipodi:open="true"
+         transform="matrix(0.55988,0,0,0.56965,107.7,137.88)"
+         sodipodi:cy="350.21933"
+         sodipodi:cx="330.71429"
+         sodipodi:end="4.4505897"
+         sodipodi:start="4.9741884" />
+      <path
+         id="path6250"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:7.99959993;stroke-linecap:round"
+         d="m 292.86,326.15 v -56"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.56536484px;line-height:10.30670166px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#002eec;fill-opacity:0.92462314;stroke:none;stroke-width:0.41226804"
+       x="23.946032"
+       y="123.71016"
+       id="text4498"
+       transform="scale(1.163725,0.85930954)"><tspan
+         sodipodi:role="line"
+         id="tspan4496"
+         x="23.946032"
+         y="123.71016"
+         style="fill:#002eec;fill-opacity:0.92462314;stroke-width:0.41226804">7</tspan></text>
+  </g>
+  <metadata
+     id="metadata4490">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2009-06-16T17:53:54</dc:date>
+        <dc:description>A plain power symbol used to represent power buttons or power connection.</dc:description>
+        <dc:source>https://openclipart.org/detail/26699/power-symbol-by-soeb</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Soeb</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>power</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
