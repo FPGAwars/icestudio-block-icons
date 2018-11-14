@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Heart-bauds.svg">
+   sodipodi:docname="Heart-bauds-rx.svg">
   <defs
      id="defs2">
     <marker
@@ -254,8 +254,8 @@
          style="fill:none;stroke:#008000;stroke-width:1.52110636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <text
-       y="71.774765"
-       x="65.436378"
+       y="71.58606"
+       x="64.868576"
        style="font-weight:400;font-size:15.2156868px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.28222108"
        font-weight="400"
        font-size="27.48"
@@ -268,11 +268,11 @@
        inkscape:export-ydpi="90">
       <tspan
          style="font-weight:700;font-size:8.69475746px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.28222108"
-         y="71.774765"
-         x="65.436378"
+         y="71.58606"
+         x="64.868576"
          font-weight="700"
          font-size="15.703"
-         id="tspan4206-6">TX</tspan>
+         id="tspan4206-6">RX</tspan>
     </text>
   </g>
 </svg>
