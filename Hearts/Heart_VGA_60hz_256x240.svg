@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170.99669"
+   height="260.60947"
+   viewBox="0 0 160.31006 244.32236"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Heart_VGA_60hz_256x240.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="994"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3153249"
+     inkscape:cx="70.930942"
+     inkscape:cy="132.54894"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="false" />
+  <path
+     d="m 78.494972,192.64678 c -2.574191,-4.42873 -6.564773,-8.76511 -14.126702,-15.34927 -4.096371,-3.56617 -6.588281,-5.54672 -20.775714,-16.50656 -11.119562,-8.59221 -16.667588,-13.35889 -23.097187,-19.84677 -6.42568,-6.48788 -10.202726,-11.65539 -13.4429931,-18.3928 -2.068756,-4.30298 -3.491025,-8.44878 -4.376515,-12.75569 -1.122535,-5.47206 -1.275341,-7.3249 -1.269464,-15.382674 0.0078,-10.572764 0.356547,-12.331289 3.827981,-19.385038 2.580068,-5.238241 4.539117,-7.996871 8.6198161,-12.140697 3.963155,-4.022009 6.535387,-5.849309 12.099085,-8.600069 6.1808,-3.05728 10.651349,-3.85893 19.860838,-3.56224 7.156407,0.23185 9.775655,0.94312 15.449061,4.20867 8.929344,5.138039 15.8585,13.386395 17.776409,21.16124 0.313448,1.271247 0.636691,2.312608 0.718971,2.312608 0.08228,0 0.805169,-1.487378 1.60642,-3.304848 2.726996,-6.179395 5.260046,-9.949915 9.283932,-13.828491 12.32046,-11.879369 31.74442,-14.026939 47.45012,-5.250029 6.41392,3.583859 11.63283,8.802445 15.67631,15.67543 3.18345,5.409184 4.81142,12.594576 5.08961,22.46393 0.4016,14.298088 -2.21373,24.206738 -9.17423,34.765748 -2.76226,4.19099 -4.80555,6.72955 -8.63745,10.72995 -6.18275,6.4584 -11.75821,11.20544 -24.92106,21.21626 -8.30636,6.31694 -13.22945,10.37825 -20.35451,16.79932 -5.710627,5.14393 -14.557691,14.09964 -15.409878,15.59684 -0.372219,0.65429 -0.709175,1.18872 -0.748356,1.18872 -0.03918,0 -0.544616,-0.8154 -1.124494,-1.81354 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#008000;stroke:#000000;stroke-width:2.81251168;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     y="115.34185"
+     x="35.313461"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.21975327px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:1"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204-3-7"
+     transform="scale(0.99852718,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium'"
+       id="tspan857">60Hz</tspan>
+  </text>
+  <text
+     y="235.11996"
+     x="29.421539"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.75047302px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;fill:#008000;stroke-width:0.99999994"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204-3-3"
+     transform="scale(0.99852717,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.28641891px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.99999994"
+       y="235.11996"
+       x="29.421539"
+       font-weight="700"
+       font-size="15.703"
+       id="tspan4206-6-56">Sync</tspan>
+  </text>
+  <text
+     y="33.52607"
+     x="31.280701"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.75047302px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;fill:#008000;stroke-width:0.99999994"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204-3-7-3"
+     transform="scale(0.99852717,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.28641891px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.99999994"
+       y="33.52607"
+       x="31.280701"
+       font-weight="700"
+       font-size="15.703"
+       id="tspan4206-6-5-6">VGA</tspan>
+  </text>
+  <text
+     y="139.0493"
+     x="38.118416"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4744873px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:1"
+     font-weight="400"
+     font-size="27.48"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4204-3-7-5"
+     transform="scale(0.99852718,1.001475)"
+     inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1"
+       id="tspan857-3">256x240</tspan>
+  </text>
+</svg>

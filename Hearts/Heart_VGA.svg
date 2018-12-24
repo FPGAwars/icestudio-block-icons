@@ -12,7 +12,7 @@
    viewBox="0 0 160.31003 146.61829"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Heart_VGA.svg">
   <metadata
      id="metadata20">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1449"
-     inkscape:window-height="1028"
+     inkscape:window-width="1280"
+     inkscape:window-height="994"
      id="namedview16"
      showgrid="false"
      fit-margin-top="0"
@@ -46,10 +46,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.3153249"
-     inkscape:cx="-38.927846"
-     inkscape:cy="58.054905"
-     inkscape:window-x="181"
-     inkscape:window-y="24"
+     inkscape:cx="70.930943"
+     inkscape:cy="80.862958"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <path
@@ -61,10 +61,9 @@
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <text
-     sodipodi:linespacing="125%"
      y="62.342178"
      x="41.336777"
-     style="font-weight:400;font-size:53.91407013px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ffffff"
+     style="font-weight:400;font-size:53.91407013px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ffffff"
      font-weight="400"
      font-size="27.48"
      letter-spacing="0"
@@ -90,10 +89,9 @@
        id="tspan4177" />
   </text>
   <text
-     sodipodi:linespacing="125%"
      y="96.504013"
      x="34.198719"
-     style="font-weight:400;font-size:53.91407013px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ffffff"
+     style="font-weight:400;font-size:53.91407013px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ffffff"
      font-weight="400"
      font-size="27.48"
      letter-spacing="0"
