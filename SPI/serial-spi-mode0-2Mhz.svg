@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 204.24379 355.15903"
+   xml:space="preserve"
+   sodipodi:docname="serial-spi-mode0-2Mhz.svg"
+   inkscape:version="0.92.4 (unknown)"
+   width="204.24379"
+   height="355.15903"><metadata
+   id="metadata38"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs36" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1853"
+   inkscape:window-height="1025"
+   id="namedview34"
+   showgrid="false"
+   inkscape:zoom="0.70116471"
+   inkscape:cx="61.150174"
+   inkscape:cy="147.13768"
+   inkscape:window-x="67"
+   inkscape:window-y="1051"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1"
+   inkscape:snap-global="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   showguides="true"
+   inkscape:guide-bbox="true" />
+
+<g
+   id="g3"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g5"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g7"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g9"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g11"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g13"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g15"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g17"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g19"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g21"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g23"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g25"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g27"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g29"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<g
+   id="g31"
+   transform="translate(-79.163203,728.60034)">
+</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.22381592px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.44791207"
+   x="92.748978"
+   y="252.50984"
+   id="text855"><tspan
+     sodipodi:role="line"
+     id="tspan853"
+     x="92.748978"
+     y="252.50984"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.44791207">SPI</tspan></text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.2924614px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23633006"
+   x="102.39498"
+   y="311.65994"
+   id="text855-5-36"><tspan
+     sodipodi:role="line"
+     id="tspan853-3-7"
+     x="102.39498"
+     y="311.65994"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:0.23633006">Mode 0</tspan></text>
+
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.2924614px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.23633006"
+   x="91.285065"
+   y="355.15903"
+   id="text855-5-36-5"><tspan
+     sodipodi:role="line"
+     id="tspan853-3-7-3"
+     x="91.285065"
+     y="355.15903"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.23633006">2MHZ</tspan></text>
+
+
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot838"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-32.6574,-19.651053)"><flowRegion
+     id="flowRegion840"><rect
+       id="rect842"
+       width="671.73944"
+       height="643.21552"
+       x="-215.35596"
+       y="-150.03094" /></flowRegion><flowPara
+     id="flowPara844" /></flowRoot><path
+   style="fill:#ececec;stroke:#000000;stroke-width:1.99998903;stroke-linecap:round;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   d="m 157.19446,125.68062 0.35673,41.31601 45.6926,-42.75258 V 85.799007 Z"
+   id="path842" /><path
+   style="fill:#e6e6e6;stroke:#000000;stroke-width:1.99998903;stroke-linecap:round;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   d="M 1.3453504,126.10097 61.5596,85.142477 l 140.97412,0.71937 -44.62878,40.958493"
+   id="path844" /><g
+   style="stroke:#000000;stroke-width:0.49579513;stroke-linecap:square"
+   id="g868"
+   transform="matrix(2.1361657,0,0,2.166772,-3.0115496,81.079787)"><rect
+     style="fill:#e6e6e6;stroke-width:0.92961586"
+     ry="1.858"
+     height="19.233999"
+     width="73.621002"
+     y="20.916"
+     x="1.8746001"
+     id="rect856" /><g
+     style="stroke-width:0.46505585"
+     id="g866"><circle
+       style="fill:#ff0000;stroke-width:0.46505585"
+       cy="30.367001"
+       cx="11.326"
+       r="3.1500001"
+       id="circle858" /><circle
+       style="fill:#ffaaaa;stroke-width:0.46505585"
+       cy="30.367001"
+       cx="20.611"
+       r="3.1500001"
+       id="circle860" /><circle
+       style="fill:#008000;stroke-width:0.46505585"
+       cy="30.367001"
+       cx="62.82"
+       r="3.1500001"
+       id="circle862" /><circle
+       style="fill:#ff0000;stroke-width:0.46505585"
+       cy="30.367001"
+       cx="30.554001"
+       r="3.1500001"
+       id="circle864" /></g></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.89276123px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.44791213"
+   x="98.286339"
+   y="56.564781"
+   id="text855-3"><tspan
+     sodipodi:role="line"
+     id="tspan853-6"
+     x="98.286339"
+     y="56.564781"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.44791213">Serial</tspan></text>
+</svg>
