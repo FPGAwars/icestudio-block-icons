@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="132.52948mm"
+   height="131.80838mm"
+   viewBox="0 0 132.52948 131.80838"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="Bin2BCD-combUnit.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="447.60249"
+     inkscape:cy="0.49723128"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.541995,-51.621988)">
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="84.122749"
+       y="82.330688"
+       font-size="96.3"
+       id="text4">
+      <tspan
+         x="84.122749"
+         y="82.330688"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2">&gt;</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:30.41683006px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.0781374"
+       x="-5.547441"
+       y="42.859959"
+       font-size="22.158"
+       id="text6" />
+    <text
+       style="font-weight:400;font-size:67.97011566px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.04017605"
+       x="158.28851"
+       y="125.34987"
+       font-size="96.3"
+       id="text4-3-7">
+      <tspan
+         x="158.28851"
+         y="125.34987"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.14511043"
+         font-weight="700"
+         id="tspan2-6-5" />
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path820"
+       d="M 89.745372,86.555946 119.57901,75.318163"
+       style="font-weight:400;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke:#0000ff;stroke-width:4.68240976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="53.531517"
+       y="80.938652"
+       font-size="96.3"
+       id="text4-3">
+      <tspan
+         x="53.531517"
+         y="80.938652"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6">a</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="127.21284"
+       y="85.731575"
+       font-size="96.3"
+       id="text4-3-75">
+      <tspan
+         x="127.21284"
+         y="85.731575"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6-3">5</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="55.237518"
+       y="135.4989"
+       font-size="96.3"
+       id="text4-3-5">
+      <tspan
+         x="55.237518"
+         y="135.4989"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6-6">?</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="88.415733"
+       y="132.02052"
+       font-size="96.3"
+       id="text4-3-2">
+      <tspan
+         x="88.415733"
+         y="132.02052"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6-9">a+3</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="55.943626"
+       y="182.76782"
+       font-size="96.3"
+       id="text4-3-5-1">
+      <tspan
+         x="55.943626"
+         y="182.76782"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6-6-2">:</tspan>
+    </text>
+    <text
+       style="font-weight:400;font-size:46.78930664px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.02765641"
+       x="88.051582"
+       y="182.76782"
+       font-size="96.3"
+       id="text4-3-2-7">
+      <tspan
+         x="88.051582"
+         y="182.76782"
+         style="font-weight:700;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0998912"
+         font-weight="700"
+         id="tspan2-6-9-0">a</tspan>
+    </text>
+  </g>
+</svg>
