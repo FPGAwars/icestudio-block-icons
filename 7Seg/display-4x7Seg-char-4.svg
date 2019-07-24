@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="display-4x7Seg-Digitos-4++.svg">
+   sodipodi:docname="display-4x7Seg-char-4.svg">
   <defs
      id="defs2">
     <marker
@@ -719,9 +719,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="-346.24419"
-     inkscape:cy="1233.9182"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="280.76183"
+     inkscape:cy="966.63859"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -751,7 +751,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2457,7 +2457,7 @@
        id="polygon211"
        points="9.91,53.691 12.86,56.641 9.91,71.402 5.481,75.833 4.007,72.881 6.958,56.641 "
        gorn="0.72.0.0.19"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,111.7195)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2466,7 +2466,7 @@
        id="polygon213"
        points="14.337,30.073 17.293,33.027 14.337,47.79 9.91,52.216 8.435,49.267 11.389,33.027 "
        gorn="0.72.0.0.20"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,111.7195)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2475,7 +2475,7 @@
        id="polyline215"
        points="11.389,52.216 14.337,49.267 33.529,49.267 36.481,52.216 33.529,55.168 14.337,55.168 "
        gorn="0.72.0.0.21"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2486,7 +2486,7 @@
        gorn="0.72.0.0.22"
        cy="160.37053"
        cx="209.50716"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2512,7 +2512,7 @@
        id="polygon223"
        points="90.661,56.641 87.709,72.881 84.757,75.833 81.805,72.881 84.757,58.123 89.183,53.691 "
        gorn="0.72.0.0.25"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2539,7 +2539,7 @@
        id="polygon229"
        points="59.663,49.267 62.617,33.027 65.565,30.073 68.521,33.027 65.565,47.79 61.138,52.215 "
        gorn="0.72.0.0.28"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2548,7 +2548,7 @@
        id="polyline231"
        points="62.617,52.215 65.565,49.267 84.757,49.267 87.709,52.215 84.757,55.168 65.565,55.168 "
        gorn="0.72.0.0.29"
-       style="fill:#ff0000"
+       style="fill:#646464"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2559,7 +2559,7 @@
        gorn="0.72.0.0.30"
        cy="160.37053"
        cx="241.91637"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2569,7 +2569,7 @@
        gorn="0.72.0.0.31"
        cy="152.99513"
        cx="246.64351"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2579,7 +2579,7 @@
        gorn="0.72.0.0.32"
        cy="138.42909"
        cx="248.84892"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2589,7 +2589,7 @@
        gorn="0.72.0.0.33"
        cy="131.2612"
        cx="282.71576"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2597,7 +2597,7 @@
        id="polygon241"
        points="141.911,27.125 143.386,28.598 140.432,33.027 121.242,33.027 118.293,28.598 119.768,27.125 "
        gorn="0.72.0.0.34"
-       style="fill:#ff0000"
+       style="fill:#646464"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2606,7 +2606,7 @@
        id="polygon243"
        points="146.338,33.027 143.386,49.267 140.432,52.215 137.483,49.267 140.432,34.501 144.861,30.073 "
        gorn="0.72.0.0.35"
-       style="fill:#ff0000"
+       style="fill:#646464"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2615,7 +2615,7 @@
        id="polygon245"
        points="141.911,56.641 138.958,72.881 136.005,75.833 133.054,72.881 136.004,58.123 140.432,53.691 "
        gorn="0.72.0.0.36"
-       style="fill:#ff0000"
+       style="fill:#646464"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2633,7 +2633,7 @@
        id="polygon249"
        points="106.485,72.881 109.435,56.641 112.387,53.691 115.338,56.641 112.387,71.402 107.958,75.833 "
        gorn="0.72.0.0.38"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2642,7 +2642,7 @@
        id="polygon251"
        points="110.912,49.267 113.866,33.027 116.814,30.073 119.768,33.027 116.814,47.79 112.387,52.215 "
        gorn="0.72.0.0.39"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2651,7 +2651,7 @@
        id="polyline253"
        points="113.866,52.215 116.814,49.267 136.004,49.267 138.958,52.215 136.004,55.168 116.814,55.168 "
        gorn="0.72.0.0.40"
-       style="fill:#ff0000"
+       style="fill:#646464"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2662,7 +2662,7 @@
        gorn="0.72.0.0.41"
        cy="160.37053"
        cx="274.3389"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2670,7 +2670,7 @@
        id="polygon257"
        points="193.293,27.125 194.769,28.598 191.815,33.027 172.625,33.027 169.676,28.598 171.151,27.125 "
        gorn="0.72.0.0.42"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2706,7 +2706,7 @@
        id="polygon265"
        points="157.867,72.881 160.818,56.641 163.77,53.691 166.72,56.641 163.77,71.402 159.341,75.833 "
        gorn="0.72.0.0.46"
-       style="fill:#646464"
+       style="fill:#ff0000"
        transform="matrix(0.63264646,0,0,0.63264646,184.02607,112.39948)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
@@ -2735,7 +2735,7 @@
        gorn="0.72.0.0.49"
        cy="160.37053"
        cx="306.84616"
-       style="fill:#ff0000;stroke-width:0.63264644"
+       style="fill:#646464;stroke-width:0.63264644"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2759,15 +2759,15 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.9947052px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.56216908"
-       x="183.3479"
-       y="23.315565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.63978386px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.72748649"
+       x="204.0415"
+       y="25.368145"
        id="text1658"><tspan
          sodipodi:role="line"
          id="tspan1656"
-         x="183.3479"
-         y="23.315565"
-         style="fill:#008000;stroke-width:1.56216908">Digitos-4++</tspan></text>
+         x="204.0415"
+         y="25.368145"
+         style="fill:#008000;stroke-width:1.72748649">Char-4</tspan></text>
     <g
        id="g992-3"
        transform="matrix(1.1416527,0,0,1.1416527,86.036656,291.11372)"
