@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.49937mm"
+   height="20.009687mm"
+   viewBox="0 0 14.49937 20.009687"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="HalfAdderGates.svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="Xor_Gate">
+      <title
+         id="title3092">Xor Gate</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 6.5236328,18.520833 H 11.90625 c 5.291667,0 7.9375,-5.291666 7.9375,-5.291666 0,0 -1.322917,-5.291667 -7.9375,-5.291667 H 6.5236328 c 0.4735846,0.8186706 0.8337984,1.7074809 1.0748698,2.645833 0.2173208,0.845905 0.3389974,1.731915 0.3389974,2.645834 0,0.913918 -0.1216766,1.799928 -0.3389974,2.645833 -0.2410714,0.938352 -0.6012852,1.827163 -1.0748698,2.645833 z"
+         id="path3094" />
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 4.9361328,18.520833 c 1.0512687,-1.50219 1.6784505,-3.319012 1.6784505,-5.291666 0,-1.972655 -0.6271818,-3.7894769 -1.6784505,-5.291667"
+         id="path3096" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-81.064757"
+     inkscape:cy="72.844484"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-127.50399,-53.285716)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="94.346146"
+       y="53.250191"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="94.346146"
+         y="62.61396"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g9538">
+      <text
+         id="text9525"
+         y="61.001007"
+         x="131.22934"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="61.001007"
+           x="131.22934"
+           id="tspan9523"
+           sodipodi:role="line">Σ</tspan></text>
+      <text
+         id="text9529"
+         y="73.295403"
+         x="131.52907"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="73.295403"
+           x="131.52907"
+           id="tspan9527"
+           sodipodi:role="line">2</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path9531"
+         d="m 127.50399,63.344987 h 14.49937"
+         style="fill:none;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <use
+       id="use4815"
+       transform="matrix(0.16191367,0,0,-0.2203179,137.92335,73.270061)"
+       style="fill:none;stroke:#000000;stroke-width:5.70758136;stroke-miterlimit:4;stroke-dasharray:none"
+       xlink:href="#Xor_Gate"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
