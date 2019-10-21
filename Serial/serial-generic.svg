@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="96.437622"
+   width="102.9908"
+   version="1.1"
+   viewBox="0 0 96.553995 90.410766"
+   id="svg34"
+   sodipodi:docname="serial-generic.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1602"
+     inkscape:window-height="832"
+     id="namedview36"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.5622441"
+     inkscape:cx="41.950664"
+     inkscape:cy="53.850362"
+     inkscape:window-x="48"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <path
+     d="m 74.059692,44.616339 0.167,19.068 21.39,-19.731 v -17.743 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#ececec;stroke:#000000;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 1.1022918,44.810339 28.1880002,-18.903 65.994,0.332 -20.892,18.903"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6;stroke:#000000;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round" />
+  <g
+     word-spacing="0"
+     letter-spacing="0"
+     font-weight="400"
+     id="g14"
+     transform="translate(13.011139,33.243578)"
+     style="font-weight:400;font-family:sans-serif;letter-spacing:0;word-spacing:0">
+    <text
+       style="font-size:29.89900017px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#0000ff"
+       font-size="29.899px"
+       y="70.334007"
+       x="8.1706238"
+       line-height="125%"
+       id="text6" />
+    <text
+       style="font-size:18.75px;line-height:125%;letter-spacing:0;word-spacing:0"
+       font-size="18.75px"
+       line-height="125%"
+       y="98.184006"
+       x="44.322624"
+       id="text8" />
+    <text
+       style="font-size:16.32600021px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#0000ff"
+       font-size="16.326px"
+       y="56.936008"
+       x="7.2776241"
+       line-height="125%"
+       id="text12">
+      <tspan
+         y="56.936008"
+         x="7.2776241"
+         font-weight="700"
+         id="tspan10"
+         style="font-weight:700">Serial</tspan>
+    </text>
+  </g>
+  <g
+     id="g28"
+     style="stroke:#000000;stroke-linecap:square"
+     transform="translate(-0.93730823,24.032339)">
+    <rect
+       ry="1.858"
+       height="19.233999"
+       width="73.621002"
+       y="20.916"
+       x="1.8746001"
+       id="rect16"
+       style="fill:#e6e6e6;stroke-width:1.875" />
+    <g
+       id="g26"
+       style="stroke-width:0.93800002">
+      <circle
+         cy="30.367001"
+         cx="11.326"
+         r="3.1500001"
+         id="circle18"
+         style="fill:#ff0000" />
+      <circle
+         cy="30.367001"
+         cx="20.611"
+         r="3.1500001"
+         id="circle20"
+         style="fill:#ffaaaa" />
+      <circle
+         cy="30.367001"
+         cx="62.82"
+         r="3.1500001"
+         id="circle22"
+         style="fill:#008000" />
+      <circle
+         cy="30.367001"
+         cx="30.554001"
+         r="3.1500001"
+         id="circle24"
+         style="fill:#ff0000" />
+    </g>
+  </g>
+  <text
+     style="font-weight:400;font-size:16.32600021px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#008000"
+     font-size="16.326px"
+     letter-spacing="0"
+     word-spacing="0"
+     y="80.695343"
+     x="63.106316"
+     font-weight="400"
+     line-height="125%"
+     id="text32">
+    <tspan
+       y="80.695343"
+       x="63.106316"
+       font-weight="700"
+       id="tspan30"
+       style="font-weight:700" />
+  </text>
+  <g
+     transform="translate(18.213723,-53.71917)"
+     style="font-weight:400;font-family:sans-serif;letter-spacing:0;word-spacing:0"
+     word-spacing="0"
+     letter-spacing="0"
+     font-weight="400"
+     id="g14-3">
+    <text
+       style="font-size:29.89900017px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#0000ff"
+       font-size="29.899px"
+       y="70.334007"
+       x="8.1706238"
+       line-height="125%"
+       id="text6-6" />
+    <text
+       style="font-size:18.75px;line-height:125%;letter-spacing:0;word-spacing:0"
+       font-size="18.75px"
+       line-height="125%"
+       y="98.184006"
+       x="44.322624"
+       id="text8-7" />
+    <text
+       style="font-size:16.32600021px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#0000ff"
+       font-size="16.326px"
+       y="65.620888"
+       x="8.0671587"
+       line-height="125%"
+       id="text12-5">
+      <tspan
+         style="font-weight:700"
+         y="65.620888"
+         x="8.0671587"
+         font-weight="700"
+         id="tspan10-3">UART</tspan>
+    </text>
+  </g>
+</svg>
