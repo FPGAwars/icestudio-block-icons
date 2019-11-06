@@ -11,7 +11,7 @@
    width="426.98651"
    version="1.1"
    id="svg4"
-   sodipodi:docname="putc-bit-TC.svg"
+   sodipodi:docname="putc-char-TC.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata10">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -383,8 +383,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.4609375"
-     inkscape:cx="386.48578"
-     inkscape:cy="465.52222"
+     inkscape:cx="556.79086"
+     inkscape:cy="380.91205"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -470,14 +470,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.60523224px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:5.72532701"
-     x="153.18236"
+     x="122.80948"
      y="846.58301"
      id="text1135"><tspan
        sodipodi:role="line"
        id="tspan1133"
-       x="153.18236"
+       x="122.80948"
        y="846.58301"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:5.72532701">Bit</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:5.72532701">Char</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.60523224px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.72532701"
