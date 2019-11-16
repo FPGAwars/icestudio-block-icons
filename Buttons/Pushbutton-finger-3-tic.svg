@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="80.077148mm"
-   height="115.82534mm"
-   viewBox="0 0 80.07715 115.82534"
+   width="90.233391mm"
+   height="109.06933mm"
+   viewBox="0 0 90.233393 109.06933"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
@@ -354,15 +354,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="128.72617"
-     inkscape:cy="294.62818"
+     inkscape:cx="164.58658"
+     inkscape:cy="143.10527"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="996"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -385,10 +385,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-90.276049,-115.23294)">
+     transform="translate(-80.119809,-121.98895)">
     <g
        id="g904"
-       transform="translate(228.29762,-19.654762)">
+       transform="translate(218.14138,11.348503)">
       <path
          inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
          inkscape:export-ydpi="90"
@@ -437,7 +437,8 @@
       </g>
     </g>
     <g
-       id="g1020">
+       id="g1020"
+       transform="translate(-10.156242,31.003265)">
       <g
          id="g981">
         <path
@@ -528,5 +529,16 @@
          d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
          style="fill:none;stroke:#008000;stroke-width:2.04616666;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.91250134px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99453133"
+       x="99.718742"
+       y="133.1277"
+       id="text1123"><tspan
+         sodipodi:role="line"
+         id="tspan1121"
+         x="99.718742"
+         y="133.1277"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.99453133">Button</tspan></text>
   </g>
 </svg>
