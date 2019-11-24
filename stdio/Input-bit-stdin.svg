@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1094,7 +1094,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.4609375"
-     inkscape:cx="118.15221"
+     inkscape:cx="-262.59355"
      inkscape:cy="549.7947"
      inkscape:window-x="67"
      inkscape:window-y="27"
@@ -1179,14 +1179,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.60523224px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:5.72532701"
-     x="79.937935"
+     x="112.48031"
      y="210.5183"
      id="text1135-36-1"><tspan
        sodipodi:role="line"
        id="tspan1133-7-2"
-       x="79.937935"
+       x="112.48031"
        y="210.5183"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:5.72532701">stdout</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:5.72532701">stdin</tspan></text>
   <rect
      style="opacity:1;fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect1355"
