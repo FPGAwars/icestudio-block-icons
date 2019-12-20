@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="keyboard-stdin-4-keys.svg"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   id="svg861"
+   version="1.1"
+   viewBox="0 0 56.274535 69.197998"
+   height="69.197998mm"
+   width="56.274529mm">
+  <defs
+     id="defs855">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6103" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-7-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-31"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-31-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-8-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-7-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6215-7-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-36"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path972" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path836" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path836-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path836-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path854-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path836-3-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <defs
+       id="defs3">
+      <path
+         inkscape:connector-curvature="0"
+         id="a"
+         d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+    </defs>
+    <path
+       inkscape:connector-curvature="0"
+       id="path912"
+       d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path793"
+       d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-75"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path972-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-56"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path836-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path836-3-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path836-5-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path854-2-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-2-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path836-3-7-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <defs
+       id="defs3-2">
+      <path
+         inkscape:connector-curvature="0"
+         id="a-0"
+         d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+    </defs>
+    <path
+       inkscape:connector-curvature="0"
+       id="path912-2"
+       d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path873"
+       d="M -58.3,-45 H 595.3 V 595 H -58.3 Z" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="1051"
+     inkscape:window-x="67"
+     inkscape:window-height="1025"
+     inkscape:window-width="1853"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="130.76787"
+     inkscape:cx="106.34557"
+     inkscape:zoom="3.0282668"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(-28.856725,-53.598183)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       id="text4156-2-6-0-1-7-6-9-2"
+       y="44.75531"
+       x="98.086159"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:4.15952px;line-height:1.25;stroke-width:0.282222px"
+         y="45.635052"
+         x="98.086159"
+         id="tspan4158-2-1-6-5-6-5-4-9"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.97048475,1.0304129)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-5-9"
+       y="43.887085"
+       x="314.50574"
+       style="font-style:normal;font-weight:normal;font-size:3.48003px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.65761px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="44.791077"
+         x="314.50574"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-9-6"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.97048475,1.0304129)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-7-8"
+       y="43.932938"
+       x="341.52533"
+       style="font-style:normal;font-weight:normal;font-size:3.48003px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.65761px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="44.836929"
+         x="341.52533"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-5-3"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.97048475,1.0304129)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-4"
+       y="94.403488"
+       x="276.67834"
+       style="font-style:normal;font-weight:normal;font-size:3.48003px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.65761px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="95.30748"
+         x="276.67834"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-2"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.96893488,1.0320611)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-5-1-4-0"
+       y="88.656319"
+       x="212.02751"
+       style="font-style:normal;font-weight:normal;font-size:2.87695px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02376px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="89.403648"
+         x="212.02751"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-1-7-7-5"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.97048475,1.0304129)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-6-0-9-85"
+       y="94.403488"
+       x="211.45392"
+       style="font-style:normal;font-weight:normal;font-size:3.48003px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.65761px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="95.30748"
+         x="211.45392"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-6-6-7-5"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.96893488,1.0320611)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-0-07-2-9"
+       y="187.78096"
+       x="342.47186"
+       style="font-style:normal;font-weight:normal;font-size:2.87695px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02376px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="188.52829"
+         x="342.47186"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-2-77-2-8"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       transform="scale(0.96893488,1.0320611)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-9-3-7-9-6"
+       y="206.37114"
+       x="342.12274"
+       style="font-style:normal;font-weight:normal;font-size:2.87695px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02376px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.282222px"
+         y="207.11847"
+         x="342.12274"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-6-8-1-7-9"
+         sodipodi:role="line" /></text>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-usb-25.png"
+       transform="matrix(0.67994423,0,0,0.67994423,-2.8785925,-0.38671616)"
+       id="g1306">
+      <g
+         transform="translate(0,-0.93514775)"
+         id="g1446">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+           ry="5.5378985"
+           y="128.20444"
+           x="47.012119"
+           height="25.751926"
+           width="25.793434"
+           id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1"
+           style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.677413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+           transform="scale(0.97410147,1.0265871)"
+           id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2"
+           y="135.14328"
+           x="59.318775"
+           style="font-style:normal;font-weight:normal;font-size:8.33196px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.677412px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75713px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.677412px"
+             y="135.14328"
+             x="59.318775"
+             id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7"
+             sodipodi:role="line">1</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+           transform="scale(0.96893488,1.0320611)"
+           id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9"
+           y="145.65057"
+           x="54.441391"
+           style="font-style:normal;font-weight:normal;font-size:6.90549px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.677412px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.25787px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.677412px"
+             y="145.65057"
+             x="54.441391"
+             id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3"
+             sodipodi:role="line">End</tspan></text>
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       ry="3.7654624"
+       y="85.922935"
+       x="47.850803"
+       height="17.509872"
+       width="17.538097"
+       id="rect4150-3-6-7-5-2-3-6-2-0"
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:0.460603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       transform="scale(0.94941056,1.0532851)"
+       id="text4152-9-9-9-7-7-6-8-3-1-64-4-4"
+       y="85.931564"
+       x="54.267769"
+       style="font-style:normal;font-weight:normal;font-size:3.67081px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.460603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85813px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.460603px"
+         y="85.931564"
+         x="54.267769"
+         id="tspan4154-4-0-1-7-3-3-1-9-9-9-7-0"
+         sodipodi:role="line">Back</tspan><tspan
+         id="tspan2759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85813px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.460603px"
+         y="90.754227"
+         x="54.267769"
+         sodipodi:role="line">space</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path5679-4-7-6-8-0-1"
+       d="m 59.948659,98.845373 -4.428375,0.0227 -0.01147,-1.355087 -2.064241,1.651172 2.006597,1.719482 0.02301,-1.309526 h 4.474501 z"
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.460603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       ry="3.0460842"
+       y="86.38633"
+       x="67.362862"
+       height="36.033913"
+       width="17.53809"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-2"
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:0.460603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       transform="scale(0.96893488,1.0320611)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-5"
+       y="101.74554"
+       x="71.861031"
+       style="font-style:normal;font-weight:normal;font-size:4.69535px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.460603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93495px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.460603px"
+         y="101.74554"
+         x="71.861031"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-9"
+         sodipodi:role="line">Enter</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       ry="2.7941146"
+       y="105.05601"
+       x="29.126503"
+       height="17.509872"
+       width="36.38229"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8-4"
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.460603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       transform="scale(0.97410147,1.0265871)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2-4-7"
+       y="109.08553"
+       x="37.260536"
+       style="font-style:normal;font-weight:normal;font-size:5.66526px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.460603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95435px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.460603px"
+         y="109.08553"
+         x="37.260536"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7-5-4"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-03.png"
+       transform="scale(0.96893488,1.0320611)"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-0-4"
+       y="116.36285"
+       x="35.041962"
+       style="font-style:normal;font-weight:normal;font-size:4.69535px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.460603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93494px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.460603px"
+         y="116.36285"
+         x="35.041962"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-3-30"
+         sodipodi:role="line">INS</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       transform="scale(0.99852717,1.001475)"
+       id="text4204"
+       word-spacing="0"
+       letter-spacing="0"
+       font-size="27.48"
+       font-weight="400"
+       style="font-weight:400;font-size:23.11px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;opacity:1;fill:#0000ff;stroke-width:0.428646;stop-opacity:1"
+       x="28.186649"
+       y="63.552555"><tspan
+         id="tspan4206"
+         font-size="15.703"
+         font-weight="700"
+         x="28.186649"
+         y="63.552555"
+         style="font-weight:700;font-size:13.2058px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.428646">Keybrd</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       transform="scale(0.99852717,1.001475)"
+       id="text4204-3"
+       word-spacing="0"
+       letter-spacing="0"
+       font-size="27.48"
+       font-weight="400"
+       style="font-weight:400;font-size:23.11px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;opacity:1;fill:#0000ff;stroke-width:0.428646;stop-opacity:1"
+       x="32.648705"
+       y="80.133011"><tspan
+         id="tspan4206-6"
+         font-size="15.703"
+         font-weight="700"
+         x="32.648705"
+         y="80.133011"
+         style="font-weight:700;font-size:13.2058px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.428646">STDIN</tspan></text>
+  </g>
+</svg>
