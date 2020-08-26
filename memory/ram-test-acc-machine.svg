@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="ram-dump-machine.svg"
-   inkscape:version="1.0 (9f2f71dc58, 2020-08-02)"
+   sodipodi:docname="ram-test-acc-machine.svg"
+   inkscape:version="1.0 (b51213c273, 2020-08-10)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 88.570022 124.65555"
-   height="124.65556mm"
+   viewBox="0 0 88.570022 125.64408"
+   height="125.64408mm"
    width="88.570023mm">
   <defs
      id="defs2">
@@ -369,15 +369,15 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="72"
-     inkscape:window-height="1016"
-     inkscape:window-width="1848"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
      inkscape:snap-global="false"
      showgrid="false"
      inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="250.67155"
+     inkscape:cy="254.43491"
      inkscape:cx="48.036622"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
@@ -394,23 +394,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-158.4304,-97.894813)"
+     transform="translate(-158.4304,-96.899092)"
      inkscape:label="Layer 2"
      id="layer3"
      inkscape:groupmode="layer" />
   <g
-     transform="translate(-158.4304,-97.894813)"
+     transform="translate(-158.4304,-96.899092)"
      style="display:inline"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1" />
   <g
-     transform="translate(-158.4304,-97.894813)"
+     transform="translate(-158.4304,-96.899092)"
      inkscape:label="Layer 3"
      id="layer4"
      inkscape:groupmode="layer">
@@ -450,7 +450,7 @@
          id="tspan1140-6-3-3"
          x="205.37216"
          y="110.29624"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.504423">Dump</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.504423">Test acc</tspan><tspan
          sodipodi:role="line"
          x="205.37216"
          y="134.42436"
@@ -463,7 +463,7 @@
        style="fill:#00ffff;stroke-width:0.0425471" />
     <g
        id="g992-5-3"
-       transform="matrix(0.85603817,0,0,0.85603817,85.034798,146.63789)">
+       transform="matrix(0.85603817,0,0,0.85603817,85.034798,91.517036)">
       <circle
          r="14.559162"
          cy="73.815468"
