@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Memory-map.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 90.080719 127.03606"
+   height="127.03605mm"
+   width="90.080719mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
+     inkscape:snap-global="true"
+     showgrid="false"
+     inkscape:current-layer="layer4"
+     inkscape:document-units="mm"
+     inkscape:cy="339.73257"
+     inkscape:cx="201.96133"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-148.26562,-80.306982)"
+     inkscape:label="Layer 2"
+     id="layer3"
+     inkscape:groupmode="layer" />
+  <g
+     transform="translate(-148.26562,-80.306982)"
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-148.26562,-80.306982)"
+     inkscape:label="Layer 3"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.793752;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect839"
+       width="65.891899"
+       height="26.080633"
+       x="160.41515"
+       y="180.86552" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3025px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.504422"
+       x="195.36632"
+       y="197.85843"
+       id="text1142-3-5"
+       transform="scale(0.98865801,1.0114721)"><tspan
+         sodipodi:role="line"
+         id="tspan1140-6-3"
+         x="195.36632"
+         y="197.85843"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.504422">ROM</tspan><tspan
+         sodipodi:role="line"
+         x="195.36632"
+         y="221.98656"
+         id="tspan820-5" /></text>
+    <rect
+       style="fill:#d7f4e3;stroke:#000000;stroke-width:0.793753;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect839-3"
+       width="65.891899"
+       height="26.080633"
+       x="160.41515"
+       y="154.7849" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3025px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.504423"
+       x="195.3663"
+       y="172.07361"
+       id="text1142-3-5-6"
+       transform="scale(0.98865801,1.0114721)"><tspan
+         sodipodi:role="line"
+         id="tspan1140-6-3-7"
+         x="195.3663"
+         y="172.07361"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.504423">RAM</tspan><tspan
+         sodipodi:role="line"
+         x="195.3663"
+         y="196.20174"
+         id="tspan820-5-5"
+         style="fill:#008000;stroke-width:0.504423" /></text>
+    <rect
+       style="fill:#ffe6d5;stroke:#000000;stroke-width:0.793753;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect839-3-3"
+       width="65.891899"
+       height="26.080633"
+       x="160.41515"
+       y="128.70427" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3025px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.504423"
+       x="195.3663"
+       y="146.42807"
+       id="text1142-3-5-6-5"
+       transform="scale(0.98865801,1.0114721)"><tspan
+         sodipodi:role="line"
+         id="tspan1140-6-3-7-6"
+         x="195.3663"
+         y="146.42807"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff6600;stroke-width:0.504423">Ports</tspan><tspan
+         sodipodi:role="line"
+         x="195.3663"
+         y="170.5562"
+         id="tspan820-5-5-2"
+         style="fill:#ff6600;stroke-width:0.504423" /></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.793753;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect839-3-3-9"
+       width="65.891899"
+       height="26.080633"
+       x="160.41515"
+       y="102.62364" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3025px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.504423"
+       x="195.36632"
+       y="92.772774"
+       id="text1142-3-5-1"
+       transform="scale(0.98865801,1.0114721)"><tspan
+         sodipodi:role="line"
+         id="tspan1140-6-3-2"
+         x="195.36632"
+         y="92.772774"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff0000;stroke-width:0.504423">Mem. Map</tspan><tspan
+         sodipodi:role="line"
+         x="195.36632"
+         y="116.9009"
+         id="tspan820-5-7"
+         style="fill:#ff0000;stroke-width:0.504423" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3025px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.504423"
+       x="195.3663"
+       y="120.03239"
+       id="text1142-3-5-6-5-0"
+       transform="scale(0.98865801,1.0114721)"><tspan
+         sodipodi:role="line"
+         id="tspan1140-6-3-7-6-9"
+         x="195.3663"
+         y="120.03239"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:0.504423">...</tspan><tspan
+         sodipodi:role="line"
+         x="195.3663"
+         y="144.16051"
+         id="tspan820-5-5-2-3"
+         style="fill:#000000;stroke-width:0.504423" /></text>
+  </g>
+</svg>
